@@ -1,4 +1,4 @@
 # alura-certificates
-certificates:
-Python: Appliyng Object orientation
+certificates:\n
+Python: Appliyng Object orientation\n
 Python: creating your first application
